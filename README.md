@@ -6,9 +6,7 @@ This project demonstrates creative heart animations using UIImageView and UIImag
 
 ## 📱 App Screenshots
 
-<p align="center">
-  <img src="Screenshots/heart-animation.png" width="250" alt="Heart Animation Screenshot"/>
-</p>
+
 
 ## ✨ Features
 
