@@ -6,6 +6,7 @@ This project demonstrates creative heart animations using UIImageView and UIImag
 
 ## 📱 App Screenshots
 
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 14 Pro - 2026-11-12 at 12 14 01" src="https://github.com/user-attachments/assets/4d21f353-b088-4dad-b537-7754cfc56957" />
 
 
 ## ✨ Features
